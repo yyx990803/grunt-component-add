@@ -1,0 +1,27 @@
+{
+  "name": "grunt-component-add",
+  "version": "0.1.0",
+  "description": "Automatically add files to your component.json",
+  "files": [
+    "tasks"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yyx990803/grunt-component-add.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yyx990803/grunt-component-add/issues"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "component",
+    "gruntplugin"
+  ],
+  "peerDependencies": {
+    "grunt": "~0.4.2"
+  },
+  "author": "Evan You",
+  "license": "MIT"
+}
